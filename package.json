@@ -17,5 +17,13 @@
   },
   "main": "index.js",
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ngaaligroup/Real-Estate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ngaaligroup/Real-Estate/issues"
+  },
+  "homepage": "https://github.com/Ngaaligroup/Real-Estate#readme",
   "description": ""
 }
